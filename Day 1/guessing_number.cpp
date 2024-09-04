@@ -194,6 +194,7 @@ int main()
 			}
 		}
 		// To end the game
+		
 		else if (difficultyChoice == 0) {
 			exit(0);
 		}

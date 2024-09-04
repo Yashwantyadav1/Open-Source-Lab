@@ -22,7 +22,6 @@ void findMissing(int arr[], int N)
     cout << ans;
 }
 
-/* Driver code */
 int main()
 {
     int arr[] = { 1, 3, 7, 5, 6, 2 };
